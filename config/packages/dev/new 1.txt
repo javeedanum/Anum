@@ -1,0 +1,13 @@
+PYTHON TUTORIAL:
+
+FOR Print we use :-
+print("Hello,Python!")
+
+if True:
+print "True"
+
+else:
+	print "False"
+	
+	# For commenting used :-
+	By using dell we can use sin
